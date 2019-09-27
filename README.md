@@ -1,1 +1,1 @@
-# a1682000
+# sdk/AllPay.Payment.Integration.php
